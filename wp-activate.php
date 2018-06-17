@@ -8,7 +8,7 @@
 
 define( 'WP_INSTALLING', true );
 
-echo "Test Check";    
+echo "Test Check3";    
 
 
 
